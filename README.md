@@ -1,4 +1,2 @@
-# thewrongblog
-For blogging
-
-Go to [another page](AnotherPage.md)
+# Why Am I Doing This?
+Starting a blog as one of my exercises derived from therapy. I'm supposed to pick out one thing in the past and see how I want to appreciate it. Also, it's a way to force myself to practice writing and posting.
