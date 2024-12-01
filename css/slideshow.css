@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+.sidenav {
+  position: absolute;
+  z-index: 1; /* Stay on top */
+  top: 0px;
+  left: 0px;
+  padding-left: 30px;
+  padding-top: 20px;
+  font: 14px / 1.5 "Noto Sans";
+  font-weight: 400;
+}
+
+.remark-slides-area {
+  z-index: 0;
+}
+
+.remark-code, .remark-inline-code {
+  font: 14px / 1.5 "Noto Sans";
+}
